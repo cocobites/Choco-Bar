@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChocoBar</string>
+    <string name="verbose_text">This is a verbose text . And has a lot of words . You can see this text is so long .</string>
+</resources>
